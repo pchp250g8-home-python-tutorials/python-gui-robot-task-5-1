@@ -1,5 +1,8 @@
 RobotTask-5-1. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. 
-The robot's field is 6 cells long and 3 cells wide. It has blue walls around the perimeter. 
+In the first setting, the robot's field has the following dimensions: length 7 cells, width 3 cells. 
+In the second setting, the robot's field has the following dimensions: length 6 cells, width 3 cells. 
+In the third setting, the robot's field has the following dimensions: length 7 cells, width 3 cells.
+It has blue walls around the perimeter. 
 The robot's starting position is marked with a blue square. 
 The robot's final position is marked with a red house. 
 The painted cells of the field are marked with a large orange square. 
